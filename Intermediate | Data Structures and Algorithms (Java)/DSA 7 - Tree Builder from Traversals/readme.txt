@@ -1,0 +1,2 @@
+Problem:
+Implement a binary tree ADT. ADT should support the standard interfaces. Then write a program which, given the in-order and post-order footprints or in-order and pre-order footprints of a binary tree, outputs the unique tree from which these footprints were derived.

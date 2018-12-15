@@ -1,0 +1,5 @@
+Problem: Word Frequency Counter
+Write a program that reads a text file and counts the number of times each word appears(frequency). 
+Your program should then output the words in decreasing order of their frequency. 
+Your program should run in O(n+klogk) time,where n is the total no. of words in text file and k is the no. of distinct words having frequency more than the threshold. To do this, you will need to design/implement an efficient hashing and sorting algorithm. You can use tricks like probing, chaining etc to make the hashing efficient. 
+Do not use the built in Java classes for hashing or sorting (ie. HashMap, HashSet, etc). Your program should take the input from a file test.txt and prompt the user to enter the threshold. The output should be printed on the terminal. Remove any punctuation that splits words, like hyphens, but keep the apostrophe since it often signifies contractions.
